@@ -1,0 +1,6 @@
+{
+    "dart.updateDevTools": false,
+    "dart.updateImportsOnRename": false,
+    "material-icon-theme.showUpdateMessage": false,
+    "dart.checkForSdkUpdates": false
+}
